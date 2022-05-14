@@ -1,0 +1,2 @@
+AllwaysSave: 触っちゃダメなもの。
+TemplateClass: algorithmsで問題のファイルを追加したい時、作成するClassの基本形式
