@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f350445-52ea-4277-9436-b0404dd5f7d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlgorithmLauncher.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/HelloWorld.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/summary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/template/AllwaysSave.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/template/TemplateClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/template/summary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/SortNumber.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/HelloWorldKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/AlgorithmLauncherKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/AlgorithmLauncherKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgorithmLauncher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmLauncher.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
