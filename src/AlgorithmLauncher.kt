@@ -6,27 +6,25 @@ import template.WriteReturnTypeWhenYouNeeded
  * IntelliJではこれをRun
  */
 fun main() {
-//    /* 今すぐ問題に回答するためにテストするものはこれを呼び出す。
-//    "cmd" + "/"でコメントパウとを活性/非活性 */
-//    println("${Solution().solution()}")
+    /* 今すぐ問題に回答するためにテストするものはこれを呼び出す。
+    "cmd" + "/"でコメントパウとを活性/非活性 */
+    println("正解は:${Solution().solution()}")
 
-    //algorithmsに保存したい問題はこうやって呼び出す。
-    val savedAlgorithm = SortNumber()
-    val tests = listOf(listOf(3, 2, 1, 5, 4), listOf(4, 3, 5, 2 ,1), listOf(1, 2, 3, 4, 5), listOf(5, 4, 3, 2, 1))
-    tests.forEach{ testCase ->
-        println(savedAlgorithm(testCase))
-    }
-    tests.forEach{ testCase ->
-        println(savedAlgorithm(testCase, isAscending = false))
-    }
+//    //algorithmsに保存したい問題はこうやって呼び出す。
+//    val savedAlgorithm = HelloWorld()
+//    println(savedAlgorithm())
 }
 
 /**
  * 今すぐ問題に回答するためにテストするものはここに作成
  */
+//例問題：1から１００までの整数の合計を求めてください。
 class Solution {
-    fun solution(): WriteReturnTypeWhenYouNeeded {
-        //FIXME: コードを作成
-        return //何かを返す。
+    fun solution(): Int {
+        var answer = 0
+        for(i in 1..100) {
+            answer += i
+        }
+        return answer
     }
 }
