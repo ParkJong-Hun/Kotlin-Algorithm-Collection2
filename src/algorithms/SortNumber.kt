@@ -1,10 +1,6 @@
 package algorithms
 
-class SortNumber {
-    operator fun invoke(testInput: List<Int>, isAscending: Boolean = true): List<Int> {
-        return when(isAscending) {
-            true -> testInput.sorted()
-            else -> testInput.sortedDescending()
-        }
-    }
+object SortNumber {
+    operator fun invoke(list: List<Int>, isDescending: Boolean) =
+        if(isDescending) list.sorted() else list.sortedDescending()
 }
