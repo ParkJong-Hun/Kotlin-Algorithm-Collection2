@@ -1,7 +1,4 @@
-import algorithms.HelloWorld
-import algorithms.PrimeNumberSum
-import algorithms.PrimeNumberSum2
-import algorithms.PrimeNumberSum3
+import algorithms.*
 import template.Result
 import template.def.WriteReturnTypeWhenYouNeeded
 
@@ -14,7 +11,7 @@ fun main() {
 //    Result("${Solution().solution()}")
 
     //algorithmsに保存したい問題はこうやって呼び出す。
-    Result(PrimeNumberSum3(1, 10))
+    Result(PrimeNumberSum4(1, 10))
 }
 
 /**
