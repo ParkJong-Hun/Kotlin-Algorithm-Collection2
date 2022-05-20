@@ -1,5 +1,6 @@
 package algorithms
 
+import template.Info
 import kotlin.math.pow
 
 //最大の回文積
@@ -14,6 +15,7 @@ object BigPalindrome {
                 val reverse = "$product".reversed()
                 if("$product" == reverse && product > answer) {
                     answer = product
+                    Info(answer)
                 }
             }
         }
