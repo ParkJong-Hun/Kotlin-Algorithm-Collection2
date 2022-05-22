@@ -11,7 +11,7 @@ fun main() {
 //    Result("${Solution().solution()}")
 
     //algorithmsに保存したい問題はこうやって呼び出す。
-    Result(Fibonacci(46))
+    Result(BigPrimeFactor(600851475143))
 }
 
 /**
