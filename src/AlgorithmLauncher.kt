@@ -11,7 +11,7 @@ fun main() {
 //    Result("${Solution().solution()}")
 
     //algorithmsに保存したい問題はこうやって呼び出す。
-    Result(BigPrimeFactor(600851475143))
+    Result(NotContainingNumber(listOf(1, 2, 3, 4, 5, 6, 7)))
 }
 
 /**
