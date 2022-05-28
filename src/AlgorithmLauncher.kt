@@ -11,7 +11,7 @@ fun main() {
 //    Result("${Solution().solution()}")
 
     //algorithmsに保存したい問題はこうやって呼び出す。
-    Result(TernaryReverse(45))
+    Result(RightBrackets("[]{}()"))
 }
 
 /**
