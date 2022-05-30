@@ -11,7 +11,7 @@ fun main() {
 //    Result("${Solution().solution()}")
 
     //algorithmsに保存したい問題はこうやって呼び出す。
-    Result(VowelDictionaryNumber("EIO"))
+    Result(MaxMin("1 -3 2 4 -2 3 5"))
 }
 
 /**
