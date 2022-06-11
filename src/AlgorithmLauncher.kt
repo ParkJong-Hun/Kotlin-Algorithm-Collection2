@@ -11,7 +11,7 @@ fun main() {
 //    Result("${Solution().solution()}")
 
     //algorithmsに保存したい問題はこうやって呼び出す。
-    Result(PrimeNumberCombination("011"))
+    Result(HIndex(intArrayOf(3, 0, 6, 1, 5)).toString())
 }
 
 /**
