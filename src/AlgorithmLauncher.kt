@@ -11,7 +11,7 @@ fun main() {
 //    Result("${Solution().solution()}")
 
     //algorithmsに保存したい問題はこうやって呼び出す。
-    Result(BigNumber(intArrayOf(3, 30, 34, 5, 9)))
+    Result(NoMoreThan2DifferentBits(longArrayOf(3, 11)).toList())
 }
 
 /**
