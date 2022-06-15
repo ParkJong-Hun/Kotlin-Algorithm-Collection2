@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f350445-52ea-4277-9436-b0404dd5f7d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/NoMoreThan2DifferentBits.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Clothes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/AlgorithmLauncherKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/AlgorithmLauncherKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/algorithms/NoMoreThan2DifferentBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/algorithms/NoMoreThan2DifferentBits.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AlgorithmLauncher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmLauncher.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/NoMoreThan2DifferentBits.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/NoMoreThan2DifferentBits.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
