@@ -11,7 +11,7 @@ fun main() {
 //    Result("${Solution().solution()}")
 
     //algorithmsに保存したい問題はこうやって呼び出す。
-    Result(RepeatConvertingToBinary("110010101001").toList())
+    Result(NumStringAndWord("23four5six7"))
 }
 
 /**
