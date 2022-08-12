@@ -1,6 +1,6 @@
 import algorithms.*
-import template.Result
-import template.def.WriteReturnTypeWhenYouNeeded
+import template.*
+import template.def.*
 
 /**
  * IntelliJではこれをRun
