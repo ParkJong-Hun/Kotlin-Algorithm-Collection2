@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f350445-52ea-4277-9436-b0404dd5f7d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/projecteuler/no7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/projecteuler/no8.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <recent name="algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.No7Kt">
+  <component name="RunManager" selected="Kotlin.No8Kt">
     <configuration name="AlgorithmLauncherKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgorithmLauncherKt" />
       <module name="Kotlin-Algotithm-Collection2" />
@@ -76,8 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.projecteuler.No8Kt" />
+      <module name="Kotlin-Algotithm-Collection2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.No8Kt" />
         <item itemvalue="Kotlin.No7Kt" />
         <item itemvalue="Kotlin.No6Kt" />
         <item itemvalue="Kotlin.AlgorithmLauncherKt" />
