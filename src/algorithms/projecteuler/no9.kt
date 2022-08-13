@@ -1,7 +1,6 @@
 package algorithms.projecteuler
 
 import template.Info
-import kotlin.math.pow
 import kotlin.math.sqrt
 
 fun main() {
@@ -12,7 +11,6 @@ fun main() {
             if(c - c.toInt().toDouble() == 0.0) {
                 if(b < c) {
                     if(a + b + c.toInt() == 1000) {
-                        val d = a * b * c
                         Info(a.toBigInteger() * b.toBigInteger() * c.toInt().toBigInteger())
                     }
                 }
