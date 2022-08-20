@@ -25,3 +25,5 @@ fun greedy(x: Int, y: Int): BigInteger {
     }
 }
 
+//고등학교 때 조합식으로는 더 간단하게
+//N! / R! * (N - R)-!
