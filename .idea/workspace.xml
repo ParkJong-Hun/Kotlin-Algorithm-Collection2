@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f350445-52ea-4277-9436-b0404dd5f7d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/projecteuler/no24.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/projecteuler/no25.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" afterDir="false" />
     </list>
@@ -48,14 +48,7 @@
       <recent name="algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.No24Kt">
-    <configuration name="No20Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.projecteuler.No20Kt" />
-      <module name="Kotlin-Algotithm-Collection2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.No25Kt">
     <configuration name="No21Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.projecteuler.No21Kt" />
       <module name="Kotlin-Algotithm-Collection2" />
@@ -84,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No25Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.projecteuler.No25Kt" />
+      <module name="Kotlin-Algotithm-Collection2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.No25Kt" />
         <item itemvalue="Kotlin.No24Kt" />
         <item itemvalue="Kotlin.No23Kt" />
         <item itemvalue="Kotlin.No22Kt" />
         <item itemvalue="Kotlin.No21Kt" />
-        <item itemvalue="Kotlin.No20Kt" />
       </list>
     </recent_temporary>
   </component>
