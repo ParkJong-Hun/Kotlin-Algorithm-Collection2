@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f350445-52ea-4277-9436-b0404dd5f7d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/projecteuler/no30.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/projecteuler/no31_x.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/projecteuler/no32.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +48,7 @@
       <recent name="algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.No30Kt">
-    <configuration name="No25Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.projecteuler.No25Kt" />
-      <module name="Kotlin-Algotithm-Collection2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.No32Kt">
     <configuration name="No26Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.projecteuler.No26Kt" />
       <module name="Kotlin-Algotithm-Collection2" />
@@ -77,6 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No32Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.projecteuler.No32Kt" />
+      <module name="Kotlin-Algotithm-Collection2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="No48Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.projecteuler.No48Kt" />
       <module name="Kotlin-Algotithm-Collection2" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.No32Kt" />
         <item itemvalue="Kotlin.No30Kt" />
         <item itemvalue="Kotlin.No29Kt" />
         <item itemvalue="Kotlin.No48Kt" />
         <item itemvalue="Kotlin.No26Kt" />
-        <item itemvalue="Kotlin.No25Kt" />
       </list>
     </recent_temporary>
   </component>
