@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f350445-52ea-4277-9436-b0404dd5f7d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/programmers/SizeSmallSubstring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/programmers/ClosedChar.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +47,9 @@
       <recent name="algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SizeSmallSubstringKt">
-    <configuration name="No1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.projecteuler.No1Kt" />
+  <component name="RunManager" selected="Kotlin.ClosedCharKt">
+    <configuration name="ClosedCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.programmers.ClosedCharKt" />
       <module name="Kotlin-Algotithm-Collection2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClosedCharKt" />
         <item itemvalue="Kotlin.SizeSmallSubstringKt" />
         <item itemvalue="Kotlin.No5Kt" />
         <item itemvalue="Kotlin.No4Kt" />
         <item itemvalue="Kotlin.No2Kt" />
-        <item itemvalue="Kotlin.No1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -115,5 +114,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/algorithms/programmers/ClosedChar.kt</url>
+          <line>9</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
