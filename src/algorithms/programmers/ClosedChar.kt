@@ -12,7 +12,7 @@ fun main() {
     Result(solution("foobar").toList().toString()) // [-1, -1, 1, -1, -1, -1]
 }
 
-fun solution(s: String): IntArray {
+private fun solution(s: String): IntArray {
     return s.mapIndexed { index, c ->
         for (i in index - 1 downTo 0) {
             if (s[i] == c) {
