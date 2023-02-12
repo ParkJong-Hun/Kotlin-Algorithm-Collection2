@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f350445-52ea-4277-9436-b0404dd5f7d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/programmers/HallOfFame.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/programmers/TypingContest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/algorithms/programmers/TwoPeoplePasswordKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/programmers/TwoPeoplePassword.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/programmers/ClosedChar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/programmers/ClosedChar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/algorithms/programmers/HallOfFameKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/algorithms/programmers/HallOfFameKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <recent name="algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.HallOfFameKt">
+  <component name="RunManager" selected="Kotlin.TwoPeoplePasswordKt">
     <configuration name="ClosedCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.programmers.ClosedCharKt" />
       <module name="Kotlin-Algotithm-Collection2" />
@@ -67,13 +68,6 @@
     </configuration>
     <configuration name="HallOfFameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.programmers.HallOfFameKt" />
-      <module name="Kotlin-Algotithm-Collection2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.projecteuler.No4Kt" />
       <module name="Kotlin-Algotithm-Collection2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,13 +87,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoPeoplePasswordKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.programmers.TwoPeoplePasswordKt" />
+      <module name="Kotlin-Algotithm-Collection2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TwoPeoplePasswordKt" />
         <item itemvalue="Kotlin.HallOfFameKt" />
         <item itemvalue="Kotlin.ClosedCharKt" />
         <item itemvalue="Kotlin.SizeSmallSubstringKt" />
         <item itemvalue="Kotlin.No5Kt" />
-        <item itemvalue="Kotlin.No4Kt" />
       </list>
     </recent_temporary>
   </component>
