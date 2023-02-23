@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3f350445-52ea-4277-9436-b0404dd5f7d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/programmers/WarriorsWeapon.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/algorithms/programmers/FoodFighterContestKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/programmers/FoodFighterContest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/META-INF/Kotlin-Algotithm-Collection2.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/algorithms/programmers/TwoPeoplePasswordKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/algorithms/programmers/TwoPeoplePasswordKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/algorithms/programmers/WarriorsWeaponKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin-Algotithm-Collection2/algorithms/programmers/WarriorsWeaponKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Kotlin-Algorithm-Collection2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -57,7 +64,7 @@
       <recent name="algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.WarriorsWeaponKt">
+  <component name="RunManager" selected="Kotlin.FoodFighterContestKt">
     <configuration name="ClosedCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.programmers.ClosedCharKt" />
       <module name="Kotlin-Algotithm-Collection2" />
@@ -65,15 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HallOfFameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.programmers.HallOfFameKt" />
+    <configuration name="FoodFighterContestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.programmers.FoodFighterContestKt" />
       <module name="Kotlin-Algotithm-Collection2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SizeSmallSubstringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.programmers.SizeSmallSubstringKt" />
+    <configuration name="HallOfFameKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.programmers.HallOfFameKt" />
       <module name="Kotlin-Algotithm-Collection2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FoodFighterContestKt" />
         <item itemvalue="Kotlin.WarriorsWeaponKt" />
         <item itemvalue="Kotlin.TwoPeoplePasswordKt" />
         <item itemvalue="Kotlin.HallOfFameKt" />
         <item itemvalue="Kotlin.ClosedCharKt" />
-        <item itemvalue="Kotlin.SizeSmallSubstringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -124,5 +131,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
