@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f350445-52ea-4277-9436-b0404dd5f7d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/programmers/MemoryScore.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/programmers/NumberPair.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/programmers/SizeSmallSubstring.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/programmers/SizeSmallSubstring.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Object" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -41,17 +43,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Kotlin-Algorithm-Collection2&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;
-  }
-}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -60,7 +51,7 @@
       <recent name="algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MemoryScoreKt">
+  <component name="RunManager" selected="Kotlin.NumberPairKt">
     <configuration name="ColaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.programmers.ColaKt" />
       <module name="Kotlin-Algotithm-Collection2" />
@@ -82,6 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberPairKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.programmers.NumberPairKt" />
+      <module name="Kotlin-Algotithm-Collection2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreeMusketeersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.programmers.ThreeMusketeersKt" />
       <module name="Kotlin-Algotithm-Collection2" />
@@ -89,20 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarriorsWeaponKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.programmers.WarriorsWeaponKt" />
-      <module name="Kotlin-Algotithm-Collection2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NumberPairKt" />
         <item itemvalue="Kotlin.MemoryScoreKt" />
         <item itemvalue="Kotlin.ThreeMusketeersKt" />
         <item itemvalue="Kotlin.ColaKt" />
         <item itemvalue="Kotlin.FoodFighterContestKt" />
-        <item itemvalue="Kotlin.WarriorsWeaponKt" />
       </list>
     </recent_temporary>
   </component>

@@ -13,7 +13,7 @@ fun main() {
     Result(solution("10203", "15")) // 3
 }
 
-fun solution(t: String, p: String): Int {
+private fun solution(t: String, p: String): Int {
     var answer: Int = 0
     val size = p.length
     for (i in 0..t.length - size) {
