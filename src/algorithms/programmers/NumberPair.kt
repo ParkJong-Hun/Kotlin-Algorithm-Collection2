@@ -1,6 +1,7 @@
 package algorithms.programmers
 
 import template.Result
+import kotlin.math.min
 
 /**
  * 숫자 짝꿍
@@ -17,16 +18,22 @@ fun main() {
 }
 
 private fun solution(X: String, Y: String): String {
-    val y = Y.toMutableList().sortedDescending().toMutableList()
-    val x = X.toMutableList().sortedDescending()
-    var common = ""
-    x.forEach { xc ->
-        if (y.remove(xc)) common += xc
-    }
-
-    return when {
-        common.isEmpty() -> "-1"
-        common.first() == '0' -> "0"
-        else -> common
+    return buildString {
+        val x = X.groupBy { it }.map { groupX -> groupX.key to groupX.value.size }.toMap()
+        val y = Y.groupBy { it }.map { groupY -> groupY.key to groupY.value.size }.toMap()
+        x.keys.intersect(y.keys)
+            .associateWith { min(x[it]!!, y[it]!!) }
+            .toSortedMap(Comparator.reverseOrder())
+            .map { (key, value) ->
+                repeat(value) {
+                    append(key)
+                }
+            }
+    }.let { pair ->
+        when {
+            pair == "" -> "-1"
+            pair.first() == '0' -> "0"
+            else -> pair
+        }
     }
 }
