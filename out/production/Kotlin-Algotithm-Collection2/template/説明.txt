@@ -1,4 +1,0 @@
-TemplateClass: algorithmsで問題のファイルを追加したい時、作成するClassの基本形式
-DebugUtil: Runで見やすいLogging
-
-AllwaysSave: 触っちゃダメなもの。
